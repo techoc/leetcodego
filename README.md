@@ -2,6 +2,7 @@
 
 
 ## 简单
+- [1.两数之和](leetcode/1.go)
 - [53. 最大子序和](leetcode/53.go)
 - [217.存在重复元素](leetcode/217.go)
 
