@@ -4,6 +4,18 @@ package leetcode
 //	你可以假设每种输入只会对应一个答案。但是，数组中同一个元素在答案里不能重复出现。
 //	你可以按任意顺序返回答案。
 
+//暴力枚举实现
+func TwoSum(nums []int, target int) []int {
+	for i, x := range nums {
+		for j := i + 1; j < len(nums); j++ {
+			if x+nums[j] == target {
+				return []int{i, j}
+			}
+		}
+	}
+	return nil
+}
+
 //两数之和HashMap实现
 func TwoSumHashMap(nums []int, target int) []int {
 	//	注意到方法一的时间复杂度较高的原因是寻找 target - x 的时间复杂度过高。
