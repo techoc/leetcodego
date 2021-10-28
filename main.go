@@ -6,7 +6,8 @@ import (
 )
 
 func main() {
-	nums := []int{-2, 1, -3, 4, -1, 2, 1, -5, 4}
+	nums := []int{7, 1, 5, 3, 6, 4}
 	// nums := []int{-2}
-	fmt.Print(leetcode.TwoSumHashMap(nums, -5))
+	fmt.Println(leetcode.MaxProfit(nums))
+	fmt.Println(int(^uint(0) >> 1))
 }
