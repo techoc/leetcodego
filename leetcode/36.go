@@ -6,7 +6,7 @@ package leetcode
  */
 
 // @lc code=start
-func isValidSudoku(board [][]byte) bool {
+func IsValidSudoku(board [][]byte) bool {
 	var rows, columns [9][9]int
 	var subboxes [3][3][9]int
 	for i, row := range board {

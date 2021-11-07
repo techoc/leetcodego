@@ -6,7 +6,7 @@ package leetcode
  */
 
 // @lc code=start
-func setZeroes(matrix [][]int) {
+func SetZeroes(matrix [][]int) {
 	n, m := len(matrix), len(matrix[0])
 	col0 := false
 	for _, r := range matrix {
