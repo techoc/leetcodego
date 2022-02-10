@@ -1,6 +1,9 @@
 package leetcode
 
-import "strconv"
+import (
+	"math"
+	"strconv"
+)
 
 //给你一个整数 n ，请你返回所有 0 到 1 之间（不包括 0 和 1）满足分母小于等于  n 的 最简 分数 。分数可以以 任意 顺序返回。
 // 输入：n = 4
@@ -25,14 +28,22 @@ func SimplifiedFractions(n int) []string {
 //求两数的最大公约数
 //最简分数的分子和分母最大公约数为1
 func gcd(i, j int) int {
+	count := 0
+	//如果两数皆为偶数，则除2约简
+	//当数据过小时速度会慢一些
+	for i%2 == 0 && j%2 == 0 {
+		i /= 2
+		j /= 2
+		count++
+	}
 	for i != j {
-        if(i > j) {
-            i= i-j
-        }else if i < j {
-            j = j-i
-        }
-    }
-	if i==1 {
+		if i > j {
+			i = i - j
+		} else if i < j {
+			j = j - i
+		}
+	}
+	if (i * int(math.Pow(2, float64(count)))) == 1 {
 		return 1
 	}
 	return 0
