@@ -3,6 +3,7 @@
 ## 简单
 
 - [1.两数之和](leetcode/1.go)
+- [2.两数相加](leetcode/2.go)
 - [7.整数反转](leetcode/7.go)
 - [9.回文数](leetcode/9.go)
 - [13.罗马数字转整数](leetcode/13.go)
