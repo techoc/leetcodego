@@ -25,6 +25,7 @@
 - [36.有效的数独](leetcode/36.go)
 - [73.矩阵置零](leetcode/73.go)
 - [93.复原IP地址](leetcode/93.go)
+- [116.填充每个节点的下一个右侧节点指针](leetcode/116.go)
 - [319.灯泡开关](leetcode/319.go)
 - [1447.最简分数](leetcode/1447.go)
 
