@@ -6,6 +6,7 @@
 - [9.回文数](leetcode/9.go)
 - [13.罗马数字转整数](leetcode/13.go)
 - [14.最长公共前缀](leetcode/14.go)
+- [20.有效的括号](leetcode/20.go)
 - [53. 最大子序和](leetcode/53.go)
 - [88.合并两个有序数组](leetcode/88.go)
 - [118.杨辉三角](leetcode/118.go)
