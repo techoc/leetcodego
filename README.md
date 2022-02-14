@@ -30,6 +30,7 @@
 - [93.复原IP地址](leetcode/93.go)
 - [116.填充每个节点的下一个右侧节点指针](leetcode/116.go)
 - [319.灯泡开关](leetcode/319.go)
+- [540.有序数组中的单一元素](leetcode/540.go)
 - [763.划分字母区间](leetcode/763.go)
 - [1447.最简分数](leetcode/1447.go)
 
