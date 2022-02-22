@@ -11,7 +11,7 @@
 - [26.删除有序数组中的重复项](leetcode/26.go)
 - [27.移除元素](leetcode/27.go)
 - [28.实现strStr()](leetcode/28.go)
-- [53. 最大子序和](leetcode/53.go)
+- [53.最大子序和](leetcode/53.go)
 - [88.合并两个有序数组](leetcode/88.go)
 - [118.杨辉三角](leetcode/118.go)
 - [121.买卖股票的最佳时机](leetcode/121.go)
@@ -51,3 +51,4 @@
 
 - [124.二叉树中的最大路径和](leetcode/124.go)
 - [297.二叉树的序列化与反序列化](leetcode/297.go)
+- [1994.好子集的数目](leetcode/1994.go)
