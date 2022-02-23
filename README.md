@@ -14,6 +14,7 @@
 - [35.搜索插入位置](leetcode/35.go)
 - [53.最大子序和](leetcode/53.go)
 - [58.最后一个单词的长度](leetcode/58.go)
+- [66.加一](leetcode/66.go)
 - [88.合并两个有序数组](leetcode/88.go)
 - [118.杨辉三角](leetcode/118.go)
 - [121.买卖股票的最佳时机](leetcode/121.go)
