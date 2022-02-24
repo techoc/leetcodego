@@ -25,6 +25,7 @@
 - [101.对称二叉树](leetcode/101.go)
 - [104.二叉树的最大深度](leetcode/104.go)
 - [108.将有序数组转换为二叉搜索树](leetcode/108.go)
+- [110.平衡二叉树](leetcode/110.go)
 - [111.二叉树的最小深度](leetcode/111.go)
 - [112.路径总和](leetcode/112.go)
 - [118.杨辉三角](leetcode/118.go)
