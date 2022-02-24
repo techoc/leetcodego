@@ -21,6 +21,7 @@
 - [83.删除排序链表中的重复元素](leetcode/83.go)
 - [88.合并两个有序数组](leetcode/88.go)
 - [94.二叉树的中序遍历](leetcode/94.go)
+- [100.相同的树](leetcode/100.go)
 - [118.杨辉三角](leetcode/118.go)
 - [121.买卖股票的最佳时机](leetcode/121.go)
 - [217.存在重复元素](leetcode/217.go)
