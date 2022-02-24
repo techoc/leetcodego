@@ -18,6 +18,7 @@
 - [67.二进制求和](leetcode/67.go)
 - [69.x的平方根](leetcode/69.go)
 - [70.爬楼梯](leetcode/70.go)
+- [83.删除排序链表中的重复元素](leetcode/83.go)
 - [88.合并两个有序数组](leetcode/88.go)
 - [118.杨辉三角](leetcode/118.go)
 - [121.买卖股票的最佳时机](leetcode/121.go)
