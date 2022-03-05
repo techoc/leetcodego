@@ -34,6 +34,7 @@
 - [292.Nim游戏](leetcode/292.go)
 - [350.两个数组的交集 II](leetcode/350.go)
 - [387.字符串中的第一个唯一字符](leetcode/387.go)
+- [521.最长特殊序列Ⅰ](leetcode/521.go)
 - [566.重塑矩阵](leetcode/556.go)
 - [717.1比特与2比特字符](leetcode/717.go)
 - [748.最短补全词](leetcode/748.go)
