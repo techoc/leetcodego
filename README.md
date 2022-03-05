@@ -47,6 +47,7 @@
 ## 中等
 
 - [2.两数相加](leetcode/2.go)
+- [6.Z字形变换](leetcode/6.go)
 - [7.整数反转](leetcode/7.go)
 - [36.有效的数独](leetcode/36.go)
 - [73.矩阵置零](leetcode/73.go)
