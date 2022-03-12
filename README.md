@@ -36,6 +36,7 @@
 - [387.字符串中的第一个唯一字符](leetcode/387.go)
 - [521.最长特殊序列Ⅰ](leetcode/521.go)
 - [566.重塑矩阵](leetcode/556.go)
+- [590.N叉树的后序遍历](leetcode/590.go)
 - [717.1比特与2比特字符](leetcode/717.go)
 - [748.最短补全词](leetcode/748.go)
 - [917.仅仅反转字母](leetcode/917.go)
