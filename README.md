@@ -60,6 +60,7 @@
 - [230.二叉搜索树中第K小的元素](leetcode/230.go)
 - [240.搜索二维矩阵 II](leetcode/240.go)
 - [319.灯泡开关](leetcode/319.go)
+- [393.UTF-8编码验证](leetcode/393.go)
 - [537.复数乘法](leetcode/537.go)
 - [540.有序数组中的单一元素](leetcode/540.go)
 - [688.骑士在棋盘上的概率](leetcode/688.go)
