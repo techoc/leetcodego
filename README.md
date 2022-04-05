@@ -40,6 +40,7 @@
 - [653.两数之和IV-输入BST](leetcode/653.go)
 - [717.1比特与2比特字符](leetcode/717.go)
 - [748.最短补全词](leetcode/748.go)
+- [762.二进制表示中质数个计算置位](leetcode/762.go)
 - [917.仅仅反转字母](leetcode/917.go)
 - [1380.矩阵中的幸运数](leetcode/1380.go)
 - [1716.计算力扣银行的钱](leetcode/1716.go)
