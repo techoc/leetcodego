@@ -71,6 +71,7 @@
 - [537.复数乘法](leetcode/537.go)
 - [540.有序数组中的单一元素](leetcode/540.go)
 - [688.骑士在棋盘上的概率](leetcode/688.go)
+- [720.词典中最长的单词](leetcode/720.go)
 - [763.划分字母区间](leetcode/763.go)
 - [969.煎饼排序](leetcode/969.go)
 - [1447.最简分数](leetcode/1447.go)
