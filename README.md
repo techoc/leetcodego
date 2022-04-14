@@ -53,6 +53,7 @@
 ## 中等
 
 - [2.两数相加](leetcode/2.go)
+- [3.无重复字符的最长子串](leetcode/3.go)
 - [6.Z字形变换](leetcode/6.go)
 - [7.整数反转](leetcode/7.go)
 - [36.有效的数独](leetcode/36.go)
