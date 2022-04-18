@@ -34,6 +34,7 @@
 - [125.验证回文串](leetcode/125.go)
 - [136.只出现一次的数字](leetcode/136.go)
 - [141.环形链表](leetcode/141.go)
+- [144.二叉树的前序遍历](leetcode/easy/144.go)
 - [217.存在重复元素](leetcode/217.go)
 - [292.Nim游戏](leetcode/292.go)
 - [350.两个数组的交集 II](leetcode/350.go)
