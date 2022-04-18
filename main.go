@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/techoc/leetcodego/leetcode"
+	"github.com/techoc/leetcodego/leetcode/easy"
 )
 
 func main() {
-	leetcode.TotalMoney(14)
+	easy.TotalMoney(14)
 }
