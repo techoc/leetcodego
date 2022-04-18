@@ -66,6 +66,7 @@
 - [230.二叉搜索树中第K小的元素](leetcode/230.go)
 - [240.搜索二维矩阵 II](leetcode/240.go)
 - [319.灯泡开关](leetcode/319.go)
+- [386.字典序排数](leetcode/386.go)
 - [393.UTF-8编码验证](leetcode/393.go)
 - [429.N叉树的层序遍历](leetcode/429.go)
 - [537.复数乘法](leetcode/537.go)
