@@ -31,6 +31,7 @@
 - [118.杨辉三角](leetcode/118.go)
 - [119.杨辉三角 II](leetcode/119.go)
 - [121.买卖股票的最佳时机](leetcode/121.go)
+- [125.验证回文串](leetcode/125.go)
 - [217.存在重复元素](leetcode/217.go)
 - [292.Nim游戏](leetcode/292.go)
 - [350.两个数组的交集 II](leetcode/350.go)
