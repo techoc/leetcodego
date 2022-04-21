@@ -50,6 +50,7 @@
 - [748.最短补全词](leetcode/easy/748.go)
 - [762.二进制表示中质数个计算置位](leetcode/easy/762.go)
 - [796.旋转字符串](leetcode/easy/796.go)
+- [824.山羊拉丁文](leetcode/easy/824.go)
 - [917.仅仅反转字母](leetcode/easy/917.go)
 - [1380.矩阵中的幸运数](leetcode/easy/1380.go)
 - [1672.最富有客户的资产总量](leetcode/easy/1672.go)
