@@ -38,6 +38,7 @@
 - [145.二叉树的后序遍历](leetcode/easy/145.go)
 - [155.最小栈](leetcode/easy/155.go)
 - [160.相交链表](leetcode/easy/160.go)
+- [168.Excel表列名称](leetcode/easy/168.go)
 - [217.存在重复元素](leetcode/easy/217.go)
 - [292.Nim游戏](leetcode/easy/292.go)
 - [350.两个数组的交集 II](leetcode/easy/350.go)
