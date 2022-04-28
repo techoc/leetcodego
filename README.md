@@ -42,6 +42,7 @@
 - [169.多数元素](leetcode/easy/169.go)
 - [171.Excel 表列序号](leetcode/easy/171.go)
 - [190.颠倒二进制位](leetcode/easy/190.go)
+- [191.位 1 的个数](leetcode/easy/191.go)
 - [217.存在重复元素](leetcode/easy/217.go)
 - [292.Nim 游戏](leetcode/easy/292.go)
 - [350.两个数组的交集 II](leetcode/easy/350.go)
