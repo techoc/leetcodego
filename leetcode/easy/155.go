@@ -7,7 +7,7 @@ type MinStack struct {
 	minStack []int
 }
 
-func Constructor() MinStack {
+func constructor() MinStack {
 	return MinStack{
 		stack:    []int{},
 		minStack: []int{math.MaxInt64},
