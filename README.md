@@ -66,6 +66,7 @@
 - [1089.复写零](leetcode/easy/1089.go)
 - [1108.IP 地址无效化](leetcode/easy/1108.go)
 - [1175.质数排列](leetcode/easy/1175.go)
+- [1184.公交站间的距离](leetcode/easy/1184.go)
 - [1252.奇数值单元格的数目](leetcode/easy/1252.go)
 - [1380.矩阵中的幸运数](leetcode/easy/1380.go)
 - [1672.最富有客户的资产总量](leetcode/easy/1672.go)
