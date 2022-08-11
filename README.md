@@ -46,6 +46,7 @@
 - [202.快乐数](leetcode/easy/202.go)
 - [203.移除链表元素](leetcode/easy/203.go)
 - [205.同构字符串](leetcode/easy/205.go)
+- [206.反转链表](leetcode/easy/206.go)
 - [217.存在重复元素](leetcode/easy/217.go)
 - [292.Nim 游戏](leetcode/easy/292.go)
 - [350.两个数组的交集 II](leetcode/easy/350.go)
