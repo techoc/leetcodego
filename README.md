@@ -105,6 +105,7 @@
 - [720.词典中最长的单词](leetcode/medium/720.go)
 - [763.划分字母区间](leetcode/medium/763.go)
 - [969.煎饼排序](leetcode/medium/969.go)
+- [1282.用户分组](leetcode/medium/1282.go)
 - [1447.最简分数](leetcode/medium/1447.go)
 - [1482.制作 m 束花所需的最少天数](leetcode/medium/1482.go)
 - [1706.球会落何处](leetcode/medium/1706.go)
