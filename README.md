@@ -73,6 +73,7 @@
 - [1380.矩阵中的幸运数](leetcode/easy/1380.go)
 - [1413.逐步求和得到正数的最小值](leetcode/easy/1413.go)
 - [1417.重新格式化字符串](leetcode/easy/1417.go)
+- [1422.分割字符串的最大得分](leetcode/easy/1422.go)
 - [1672.最富有客户的资产总量](leetcode/easy/1672.go)
 - [1716.计算力扣银行的钱](leetcode/easy/1716.go)
 - [1791.找出星型图的中心节点](leetcode/easy/1791.go)
