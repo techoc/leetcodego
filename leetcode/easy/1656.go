@@ -5,7 +5,7 @@ type OrderedStream struct {
 	ptr    int
 }
 
-func Constructor(n int) OrderedStream {
+func OrderedStreamConstructor(n int) OrderedStream {
 	//构造
 	return OrderedStream{make([]string, n+1), 1}
 }
