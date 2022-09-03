@@ -109,6 +109,7 @@
 - [535.TinyURL 的加密与解密](leetcode/medium/535.go)
 - [537.复数乘法](leetcode/medium/537.go)
 - [540.有序数组中的单一元素](leetcode/medium/540.go)
+- [646.最长数对链](leetcode/medium/646.go)
 - [654.最大二叉树](leetcode/medium/654.go)
 - [655.输出二叉树](leetcode/medium/655.go)
 - [658.找到 K 个最接近的元素](leetcode/medium/658.go)
