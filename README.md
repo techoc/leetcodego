@@ -80,6 +80,7 @@
 - [1464.数组中两元素的最大乘积](leetcode/easy/1464.go)
 - [1470.重新排列数组](leetcode/easy/1470.go)
 - [1475.商品折扣后的最终价格](leetcode/easy/1475.go)
+- [1582.二进制矩阵中的特殊位置](leetcode/easy/1582.go)
 - [1656.设计有序流](leetcode/easy/1656.go)
 - [1672.最富有客户的资产总量](leetcode/easy/1672.go)
 - [1716.计算力扣银行的钱](leetcode/easy/1716.go)
