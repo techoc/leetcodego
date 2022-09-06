@@ -135,4 +135,5 @@
 - [124.二叉树中的最大路径和](leetcode/hard/124.go)
 - [297.二叉树的序列化与反序列化](leetcode/hard/297.go)
 - [793.阶乘函数后 K 个零](leetcode/hard/793.go)
+- [828.统计子串中的唯一字符](leetcode/hard/828.go)
 - [1994.好子集的数目](leetcode/hard/1994.go)
