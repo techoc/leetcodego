@@ -123,6 +123,7 @@
 - [662.二叉树最大宽度](leetcode/medium/662.go)
 - [687.最长同值路径](leetcode/medium/687.go)
 - [688.骑士在棋盘上的概率](leetcode/medium/688.go)
+- [707.设计链表](leetcode/medium/707/707.go)
 - [720.词典中最长的单词](leetcode/medium/720.go)
 - [763.划分字母区间](leetcode/medium/763.go)
 - [946.验证栈序列](leetcode/medium/946.go)
