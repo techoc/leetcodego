@@ -90,6 +90,7 @@
 - [1672.最富有客户的资产总量](leetcode/easy/1672.go)
 - [1694.重新格式化电话号码](leetcode/easy/t1694/solution.go)
 - [1716.计算力扣银行的钱](leetcode/easy/1716.go)
+- [1773.统计匹配检索规则的物品数量](leetcode/easy/t1773/solution.go)
 - [1784.检查二进制字符串字段](leetcode/easy/t1784/solution.go)
 - [1790.仅执行一次字符串交换能否使两个字符串相等](leetcode/easy/t1790/solution.go)
 - [1791.找出星型图的中心节点](leetcode/easy/1791.go)
