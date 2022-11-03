@@ -87,6 +87,7 @@
 - [1636.按照频率将数组升序排序](leetcode/easy/1636.go)
 - [1640.能否连接形成数组](leetcode/easy/1640.go)
 - [1656.设计有序流](leetcode/easy/1656.go)
+- [1668.最大重复子字符串](leetcode/easy/t1668/solution.go)
 - [1672.最富有客户的资产总量](leetcode/easy/1672.go)
 - [1694.重新格式化电话号码](leetcode/easy/t1694/solution.go)
 - [1716.计算力扣银行的钱](leetcode/easy/1716.go)
