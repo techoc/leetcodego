@@ -1,4 +1,4 @@
-package _707
+package t707
 
 type node struct {
 	val        int
