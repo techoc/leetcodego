@@ -4,7 +4,7 @@ package easy
 //	你可以假设每种输入只会对应一个答案。但是，数组中同一个元素在答案里不能重复出现。
 //	你可以按任意顺序返回答案。
 
-//暴力枚举实现
+// TwoSum 暴力枚举实现
 func TwoSum(nums []int, target int) []int {
 	for i, x := range nums {
 		for j := i + 1; j < len(nums); j++ {
@@ -16,7 +16,7 @@ func TwoSum(nums []int, target int) []int {
 	return nil
 }
 
-//两数之和HashMap实现
+// TwoSumHashMap 两数之和HashMap实现
 func TwoSumHashMap(nums []int, target int) []int {
 	//	注意到方法一的时间复杂度较高的原因是寻找 target - x 的时间复杂度过高。
 	//	因此，我们需要一种更优秀的方法，能够快速寻找数组中是否存在目标元素。如果存在，我们需要找出它的索引。
