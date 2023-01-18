@@ -2,7 +2,7 @@
 
 ## 简单
 
-- [1.两数之和](leetcode/easy/1.go)
+- [1.两数之和](leetcode/easy/t1/solution.go)
 - [9.回文数](leetcode/easy/9.go)
 - [13.罗马数字转整数](leetcode/easy/13.go)
 - [14.最长公共前缀](leetcode/easy/14.go)
