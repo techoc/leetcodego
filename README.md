@@ -145,6 +145,7 @@
 - [1447.最简分数](leetcode/medium/1447.go)
 - [1482.制作 m 束花所需的最少天数](leetcode/medium/1482.go)
 - [1706.球会落何处](leetcode/medium/1706.go)
+- [1798.你能构造出连续值的最大数目](leetcode/medium/t1798/solution.go)
 - [2039.网络空闲的时刻](leetcode/medium/2039.go)
 - [2104.子数组范围和](leetcode/medium/2104.go)
 
