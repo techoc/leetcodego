@@ -142,6 +142,7 @@
 - [969.煎饼排序](leetcode/medium/969.go)
 - [998.最大二叉树 II](leetcode/medium/998.go)
 - [1145.二叉树着色游戏](leetcode/medium/t1145/solution.go)
+- [1233.删除子文件夹](leetcode/medium/t1233/solution.go)
 - [1282.用户分组](leetcode/medium/1282.go)
 - [1447.最简分数](leetcode/medium/1447.go)
 - [1482.制作 m 束花所需的最少天数](leetcode/medium/1482.go)
