@@ -102,6 +102,7 @@
 - [2309.兼具大小写的最好英文字母](leetcode/easy/t2309/solution.go)
 - [2325.解密消息](leetcode/easy/t2325/solution.go)
 - [2331.计算布尔二叉树的值](leetcode/easy/t2331/solution.go)
+- [2341.数组能形成多少数对](leetcode/easy/t2341/solution.go)
 
 ## 中等
 
