@@ -104,6 +104,7 @@
 - [2331.计算布尔二叉树的值](leetcode/easy/t2331/solution.go)
 - [2341.数组能形成多少数对](leetcode/easy/t2341/solution.go)
 - [2347.最好的扑克手牌](leetcode/easy/t2347/solution.go)
+- [2363.合并相似的物品](leetcode/easy/t2363/solution.go)
 
 ## 中等
 
