@@ -144,6 +144,7 @@
 - [946.验证栈序列](leetcode/medium/946.go)
 - [969.煎饼排序](leetcode/medium/969.go)
 - [998.最大二叉树 II](leetcode/medium/998.go)
+- [1053.交换一次的先前排列](leetcode/medium/t1053/solution.go)
 - [1145.二叉树着色游戏](leetcode/medium/t1145/solution.go)
 - [1233.删除子文件夹](leetcode/medium/t1233/solution.go)
 - [1282.用户分组](leetcode/medium/1282.go)
