@@ -106,6 +106,7 @@
 - [2347.最好的扑克手牌](leetcode/easy/t2347/solution.go)
 - [2363.合并相似的物品](leetcode/easy/t2363/solution.go)
 - [2437.有效时间的数目](leetcode/easy/t2437/solution.go)
+- [2451.差值数组不同的字符串](leetcode/easy/t2451/solution.go)
 
 ## 中等
 
