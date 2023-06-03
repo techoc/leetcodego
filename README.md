@@ -148,6 +148,7 @@
 - [998.最大二叉树 II](leetcode/medium/998.go)
 - [1053.交换一次的先前排列](leetcode/medium/t1053/solution.go)
 - [1145.二叉树着色游戏](leetcode/medium/t1145/solution.go)
+- [1156.单字符重复子串的最大长度](leetcode/medium/t1156/solution.go)
 - [1233.删除子文件夹](leetcode/medium/t1233/solution.go)
 - [1282.用户分组](leetcode/medium/1282.go)
 - [1447.最简分数](leetcode/medium/1447.go)
