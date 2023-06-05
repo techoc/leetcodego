@@ -107,6 +107,7 @@
 - [2363.合并相似的物品](leetcode/easy/t2363/solution.go)
 - [2437.有效时间的数目](leetcode/easy/t2437/solution.go)
 - [2451.差值数组不同的字符串](leetcode/easy/t2451/solution.go)
+- [2460.对数组执行操作](leetcode/easy/t2460/solution.go)
 
 ## 中等
 
