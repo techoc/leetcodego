@@ -109,6 +109,7 @@
 - [2451.差值数组不同的字符串](leetcode/easy/t2451/solution.go)
 - [2460.对数组执行操作](leetcode/easy/t2460/solution.go)
 - [2475.数组中不等三元组的数目](leetcode/easy/t2475/solution.go)
+- [2485.找出中枢整数](leetcode/easy/t2485/solution.go)
 
 ## 中等
 
