@@ -52,6 +52,7 @@
 - [292.Nim 游戏](leetcode/easy/292.go)
 - [350.两个数组的交集 II](leetcode/easy/350.go)
 - [387.字符串中的第一个唯一字符](leetcode/easy/387.go)
+- [415.字符串相加](leetcode/easy/t415/solution.go)
 - [521.最长特殊序列 Ⅰ](leetcode/easy/521.go)
 - [566.重塑矩阵](leetcode/easy/556.go)
 - [590.N 叉树的后序遍历](leetcode/easy/590.go)
