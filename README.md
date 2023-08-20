@@ -99,6 +99,8 @@
 - [1822.数组元素积的符号](leetcode/easy/t1822/solution.go)
 - [1984.学生分数的最小差值](leetcode/easy/1984.go)
 - [2299.强密码检验器 II](leetcode/easy/t2299/solution.go)
+- [2236.判断根结点是否等于子结点之和
+  ](leetcode/easy/t2236/solution.go)]
 - [2303.计算应缴税款总额](leetcode/easy/t2303/solution.go)
 - [2309.兼具大小写的最好英文字母](leetcode/easy/t2309/solution.go)
 - [2325.解密消息](leetcode/easy/t2325/solution.go)
