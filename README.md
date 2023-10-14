@@ -32,7 +32,7 @@
 - [119.杨辉三角 II](leetcode/easy/119.go)
 - [121.买卖股票的最佳时机](leetcode/easy/121.go)
 - [125.验证回文串](leetcode/easy/125.go)
-- [136.只出现一次的数字](leetcode/easy/136.go)
+- [136.只出现一次的数字](leetcode/easy/t136/solution.go)
 - [141.环形链表](leetcode/easy/141.go)
 - [144.二叉树的前序遍历](leetcode/easy/144.go)
 - [145.二叉树的后序遍历](leetcode/easy/145.go)
@@ -117,6 +117,7 @@
 - [2460.对数组执行操作](leetcode/easy/t2460/solution.go)
 - [2475.数组中不等三元组的数目](leetcode/easy/t2475/solution.go)
 - [2485.找出中枢整数](leetcode/easy/t2485/solution.go)
+- [2578.最小和分割](leetcode/easy/t2578/solution.go))
 
 ## 中等
 
