@@ -118,6 +118,7 @@
 - [2475.数组中不等三元组的数目](leetcode/easy/t2475/solution.go)
 - [2485.找出中枢整数](leetcode/easy/t2485/solution.go)
 - [2578.最小和分割](leetcode/easy/t2578/solution.go))
+- [2586.统计范围内的元音字符串数](leetcode/easy/t2586/solution.go)
 
 ## 中等
 
