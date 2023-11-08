@@ -119,6 +119,7 @@
 - [2485.找出中枢整数](leetcode/easy/t2485/solution.go)
 - [2578.最小和分割](leetcode/easy/t2578/solution.go))
 - [2586.统计范围内的元音字符串数](leetcode/easy/t2586/solution.go)
+- [2609.最长平衡子字符串](leetcode/easy/t2609/solution.go)
 
 ## 中等
 
