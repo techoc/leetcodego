@@ -74,6 +74,7 @@
 - [1108.IP 地址无效化](leetcode/easy/1108.go)
 - [1175.质数排列](leetcode/easy/1175.go)
 - [1184.公交站间的距离](leetcode/easy/1184.go)
+- [1185.一周中的第几天](leetcode/easy/t1185/solution.go)]
 - [1252.奇数值单元格的数目](leetcode/easy/1252.go)
 - [1374.生成每种字符都是奇数个的字符串](leetcode/easy/1374.go)
 - [1380.矩阵中的幸运数](leetcode/easy/1380.go)
