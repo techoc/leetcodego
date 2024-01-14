@@ -18,7 +18,7 @@
 - [67.二进制求和](leetcode/easy/67.go)
 - [69.x 的平方根](leetcode/easy/69.go)
 - [70.爬楼梯](leetcode/easy/70.go)
-- [83.删除排序链表中的重复元素](leetcode/easy/83.go)
+- [83.删除排序链表中的重复元素](leetcode/easy/t83/solution.go)
 - [88.合并两个有序数组](leetcode/easy/88.go)
 - [94.二叉树的中序遍历](leetcode/easy/94.go)
 - [100.相同的树](leetcode/easy/100.go)
