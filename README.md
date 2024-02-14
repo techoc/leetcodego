@@ -35,7 +35,7 @@
 - [136.只出现一次的数字](leetcode/easy/t136/solution.go)
 - [141.环形链表](leetcode/easy/141.go)
 - [144.二叉树的前序遍历](leetcode/easy/144.go)
-- [145.二叉树的后序遍历](leetcode/easy/145.go)
+- [145.二叉树的后序遍历](leetcode/easy/t145/solution.go)
 - [155.最小栈](leetcode/easy/155.go)
 - [160.相交链表](leetcode/easy/160.go)
 - [168.Excel 表列名称](leetcode/easy/168.go)

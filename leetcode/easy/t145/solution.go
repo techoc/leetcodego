@@ -1,6 +1,10 @@
-package easy
+package t145
 
-func postorderTraversal(root *TreeNode) []int {
+import "github.com/techoc/leetcodego/leetcode/utils"
+
+// 145.二叉树的后序遍历
+// https://leetcode.cn/problems/binary-tree-postorder-traversal
+func postorderTraversal(root *utils.TreeNode) []int {
 	if root == nil {
 		return []int{}
 	}
