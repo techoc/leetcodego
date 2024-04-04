@@ -126,6 +126,7 @@
 - [2760.最长奇偶子数组](leetcode/easy/t2760/solution.go)
 - [2765.最长交替子数组](leetcode/easy/t2765/solution.go)
 - [2908.元素和最小的山形三元组 I](leetcode/easy/t2908/solution.go)
+- [3028.边界上的蚂蚁](leetcode/easy/t3028/solution.go)
 
 ## 中等
 
