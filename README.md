@@ -78,6 +78,7 @@
 - [1252.奇数值单元格的数目](leetcode/easy/1252.go)
 - [1374.生成每种字符都是奇数个的字符串](leetcode/easy/1374.go)
 - [1380.矩阵中的幸运数](leetcode/easy/1380.go)
+- [1394.找出数组中的幸运数](leetcode/easy/t1394/solution.go)
 - [1413.逐步求和得到正数的最小值](leetcode/easy/1413.go)
 - [1417.重新格式化字符串](leetcode/easy/1417.go)
 - [1422.分割字符串的最大得分](leetcode/easy/1422.go)
