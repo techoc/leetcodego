@@ -74,7 +74,7 @@
 - [1108.IP 地址无效化](leetcode/easy/t1108/solution.go)
 - [1175.质数排列](leetcode/easy/1175.go)
 - [1184.公交站间的距离](leetcode/easy/1184.go)
-- [1185.一周中的第几天](leetcode/easy/t1185/solution.go)]
+- [1185.一周中的第几天](leetcode/easy/t1185/solution.go)
 - [1252.奇数值单元格的数目](leetcode/easy/1252.go)
 - [1374.生成每种字符都是奇数个的字符串](leetcode/easy/1374.go)
 - [1380.矩阵中的幸运数](leetcode/easy/1380.go)
@@ -83,7 +83,7 @@
 - [1417.重新格式化字符串](leetcode/easy/1417.go)
 - [1422.分割字符串的最大得分](leetcode/easy/1422.go)
 - [1450.在既定时间做作业的学生人数](leetcode/easy/1450.go)
-- [1455.检查单词是否为句中其他单词的前缀](leetcode/easy/1455.go)
+- [1455.检查单词是否为句中其他单词的前缀](leetcode/easy/t1455/solution.go)
 - [1460.通过翻转子数组使两个数组相等](leetcode/easy/1460.go)
 - [1464.数组中两元素的最大乘积](leetcode/easy/t1464/solution.go)
 - [1470.重新排列数组](leetcode/easy/t1470/solution.go)
