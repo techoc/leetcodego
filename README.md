@@ -85,7 +85,7 @@
 - [1450.在既定时间做作业的学生人数](leetcode/easy/1450.go)
 - [1455.检查单词是否为句中其他单词的前缀](leetcode/easy/1455.go)
 - [1460.通过翻转子数组使两个数组相等](leetcode/easy/1460.go)
-- [1464.数组中两元素的最大乘积](leetcode/easy/1464.go)
+- [1464.数组中两元素的最大乘积](leetcode/easy/t1464/solution.go)
 - [1470.重新排列数组](leetcode/easy/t1470/solution.go)
 - [1475.商品折扣后的最终价格](leetcode/easy/1475.go)
 - [1480.一维数组的动态和](leetcode/easy/t1480/solution.go)
