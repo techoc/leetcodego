@@ -131,7 +131,7 @@
 - [2706.购买两块巧克力](leetcode/easy/t2706/solution.go)
 - [2760.最长奇偶子数组](leetcode/easy/t2760/solution.go)
 - [2765.最长交替子数组](leetcode/easy/t2765/solution.go)
-- [2798.统计满足要求三元组的数目](leetcode/easy/t2798/solution.go)
+- [2798.满足目标工作时长的员工数目](leetcode/easy/t2798/solution.go)
 - [2894.分类求和并做差](leetcode/easy/t2894/solution.go)
 - [2908.元素和最小的山形三元组 I](leetcode/easy/t2908/solution.go)
 - [3024.三角形类型](leetcode/easy/t3024/solution.go)
