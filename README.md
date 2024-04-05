@@ -105,6 +105,7 @@
 - [1790.仅执行一次字符串交换能否使两个字符串相等](leetcode/easy/t1790/solution.go)
 - [1791.找出星型图的中心节点](leetcode/easy/1791.go)
 - [1822.数组元素积的符号](leetcode/easy/t1822/solution.go)
+- [1929.数组串联](leetcode/easy/t1929/solution.go)
 - [1984.学生分数的最小差值](leetcode/easy/1984.go)
 - [2299.强密码检验器 II](leetcode/easy/t2299/solution.go)
 - [2236.判断根结点是否等于子结点之和](leetcode/easy/t2236/solution.go)
