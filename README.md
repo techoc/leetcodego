@@ -77,6 +77,7 @@
 - [1184.公交站间的距离](leetcode/easy/1184.go)
 - [1185.一周中的第几天](leetcode/easy/t1185/solution.go)
 - [1252.奇数值单元格的数目](leetcode/easy/1252.go)
+- [1281.整数的各位积和之差](leetcode/easy/t1281/solution.go)
 - [1295.统计位数为偶数的数字个数](leetcode/easy/t1295/solution.go)
 - [1351.统计有序矩阵中的负数](leetcode/easy/t1351/solution.go)
 - [1374.生成每种字符都是奇数个的字符串](leetcode/easy/1374.go)
