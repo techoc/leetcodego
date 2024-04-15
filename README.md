@@ -62,6 +62,7 @@
 - [590.N 叉树的后序遍历](leetcode/easy/590.go)
 - [653.两数之和 IV-输入 BST](leetcode/easy/653.go)
 - [705.设计哈希集合](leetcode/easy/t705/solution.go)
+- [706.设计哈希映射](leetcode/easy/t706/solution.go)
 - [717.1 比特与 2 比特字符](leetcode/easy/717.go)
 - [748.最短补全词](leetcode/easy/748.go)
 - [762.二进制表示中质数个计算置位](leetcode/easy/762.go)
