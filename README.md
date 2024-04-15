@@ -138,6 +138,7 @@
 - [2908.元素和最小的山形三元组 I](leetcode/easy/t2908/solution.go)
 - [3024.三角形类型](leetcode/easy/t3024/solution.go)
 - [3028.边界上的蚂蚁](leetcode/easy/t3028/solution.go)
+- [100256.替换字符可以得到的最短时间](leetcode/easy/t100256/solution.go)
 
 ## 中等
 
