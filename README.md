@@ -200,4 +200,5 @@
 - [297.二叉树的序列化与反序列化](leetcode/hard/297.go)
 - [793.阶乘函数后 K 个零](leetcode/hard/793.go)
 - [828.统计子串中的唯一字符](leetcode/hard/828.go)
+- [924.尽量减少恶意软件的传播](leetcode/hard/t924/solution.go)
 - [1994.好子集的数目](leetcode/hard/1994.go)
