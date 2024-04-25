@@ -132,6 +132,7 @@
 - [2609.最长平衡子字符串](leetcode/easy/t2609/solution.go)
 - [2656.K 个元素的最大和](leetcode/easy/t2656/solution.go)
 - [2706.购买两块巧克力](leetcode/easy/t2706/solution.go)
+- [2739.总行驶距离](leetcode/easy/t2739/solution.go)
 - [2760.最长奇偶子数组](leetcode/easy/t2760/solution.go)
 - [2765.最长交替子数组](leetcode/easy/t2765/solution.go)
 - [2798.满足目标工作时长的员工数目](leetcode/easy/t2798/solution.go)
