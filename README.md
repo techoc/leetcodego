@@ -150,6 +150,7 @@
 - [7.整数反转](leetcode/medium/7.go)
 - [36.有效的数独](leetcode/medium/36.go)
 - [73.矩阵置零](leetcode/medium/73.go)
+- [86.分隔链表](leetcode/medium/t86/solution.go)
 - [93.复原 IP 地址](leetcode/medium/93.go)
 - [99.恢复二叉搜索树](leetcode/medium/99.go)
 - [105.从前序与中序遍历序列构造二叉树](leetcode/medium/105.go)
