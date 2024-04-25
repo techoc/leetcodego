@@ -198,6 +198,7 @@
 
 ## 困难
 
+- [23.合并K个排序链表](leetcode/hard/t23/solution.go)
 - [124.二叉树中的最大路径和](leetcode/hard/124.go)
 - [297.二叉树的序列化与反序列化](leetcode/hard/297.go)
 - [793.阶乘函数后 K 个零](leetcode/hard/793.go)

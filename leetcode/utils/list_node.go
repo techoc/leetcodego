@@ -1,23 +1,31 @@
 package utils
 
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
+type ListNode struct {
+	Val  int
+	Next *ListNode
 }
 
-func ListToTree(arr []any) *TreeNode {
-	return ListToTreeDFS(arr, 0)
-}
-
-func ListToTreeDFS(arr []any, i int) *TreeNode {
-	if i < 0 || i >= len(arr) || arr[i] == nil {
+func ListToListNode(list []int) *ListNode {
+	if len(list) == 0 {
 		return nil
 	}
-	root := &TreeNode{
-		Val: arr[i].(int),
+	head := &ListNode{Val: list[0]}
+	tail := head
+	for i := 1; i < len(list); i++ {
+		tail.Next = &ListNode{Val: list[i]}
+		tail = tail.Next
 	}
-	root.Left = ListToTreeDFS(arr, 2*i+1)
-	root.Right = ListToTreeDFS(arr, 2*i+2)
-	return root
+	return head
+}
+
+func ListNodeToList(list *ListNode) []int {
+	if list == nil {
+		return []int{}
+	}
+	var res []int
+	for list != nil {
+		res = append(res, list.Val)
+		list = list.Next
+	}
+	return res
 }
