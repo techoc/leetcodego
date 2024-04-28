@@ -69,6 +69,7 @@
 - [796.旋转字符串](leetcode/easy/796.go)
 - [824.山羊拉丁文](leetcode/easy/824.go)
 - [868.二进制间距](leetcode/easy/868.go)
+- [876.链表的中间结点](leetcode/easy/t876/solution.go)
 - [905.按奇偶排序数组](leetcode/easy/905.go)
 - [917.仅仅反转字母](leetcode/easy/917.go)
 - [929.独特的电子邮件地址](leetcode/easy/929.go)
