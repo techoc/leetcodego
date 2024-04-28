@@ -148,6 +148,7 @@
 - [3.无重复字符的最长子串](leetcode/medium/3.go)
 - [6.Z 字形变换](leetcode/medium/6.go)
 - [7.整数反转](leetcode/medium/7.go)
+- [19.删除链表的倒数第 N 个结点](leetcode/medium/t19/solution.go)
 - [36.有效的数独](leetcode/medium/36.go)
 - [73.矩阵置零](leetcode/medium/73.go)
 - [86.分隔链表](leetcode/medium/t86/solution.go)
