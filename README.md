@@ -37,7 +37,7 @@
 - [144.二叉树的前序遍历](leetcode/easy/144.go)
 - [145.二叉树的后序遍历](leetcode/easy/t145/solution.go)
 - [155.最小栈](leetcode/easy/155.go)
-- [160.相交链表](leetcode/easy/160.go)
+- [160.相交链表](leetcode/easy/t160/solution.go)
 - [168.Excel 表列名称](leetcode/easy/168.go)
 - [169.多数元素](leetcode/easy/169.go)
 - [171.Excel 表列序号](leetcode/easy/171.go)
