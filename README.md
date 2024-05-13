@@ -9,7 +9,7 @@
 - [20.有效的括号](leetcode/easy/20.go)
 - [21.合并两个有序链表](leetcode/easy/21.go)
 - [26.删除有序数组中的重复项](leetcode/easy/t26/solution.go)
-- [27.移除元素](leetcode/easy/27.go)
+- [27.移除元素](leetcode/easy/t27/solution.go)
 - [28.实现 strStr()](leetcode/easy/28.go)
 - [35.搜索插入位置](leetcode/easy/35.go)
 - [53.最大子序和](leetcode/easy/53.go)
