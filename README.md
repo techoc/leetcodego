@@ -54,6 +54,7 @@
 - [228.汇总区间](leetcode/easy/t228/solution.go)
 - [292.Nim 游戏](leetcode/easy/292.go)
 - [232.用栈实现队列](leetcode/easy/t232/solution.go)
+- [283.移动零](leetcode/easy/t283/solution.go)
 - [350.两个数组的交集 II](leetcode/easy/350.go)
 - [387.字符串中的第一个唯一字符](leetcode/easy/387.go)
 - [415.字符串相加](leetcode/easy/t415/solution.go)
