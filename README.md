@@ -55,6 +55,7 @@
 - [292.Nim 游戏](leetcode/easy/292.go)
 - [232.用栈实现队列](leetcode/easy/t232/solution.go)
 - [283.移动零](leetcode/easy/t283/solution.go)
+- [344.反转字符串](leetcode/easy/t344/solution.go)
 - [350.两个数组的交集 II](leetcode/easy/350.go)
 - [387.字符串中的第一个唯一字符](leetcode/easy/387.go)
 - [415.字符串相加](leetcode/easy/t415/solution.go)
@@ -77,7 +78,7 @@
 - [977.有序数组的平方](leetcode/easy/t977/solution.go)
 - [1089.复写零](leetcode/easy/1089.go)
 - [1108.IP 地址无效化](leetcode/easy/t1108/solution.go)
-- [1137.第N个泰波那契数](leetcode/easy/t1137/solution.go)
+- [1137.第 N 个泰波那契数](leetcode/easy/t1137/solution.go)
 - [1175.质数排列](leetcode/easy/1175.go)
 - [1184.公交站间的距离](leetcode/easy/1184.go)
 - [1185.一周中的第几天](leetcode/easy/t1185/solution.go)
@@ -160,7 +161,8 @@
 - [106.从中序与后序遍历序列构造二叉树](leetcode/medium/106.go)
 - [116.填充每个节点的下一个右侧节点指针](leetcode/medium/116.go)
 - [142.环形链表 II](leetcode/medium/t142/solution.go)
-- [215.数组中的第K个最大元素](leetcode/medium/t215/solution.go)
+- [167.两数之和 II - 输入有序数组](leetcode/medium//t167/solution.go)
+- [215.数组中的第 K 个最大元素](leetcode/medium/t215/solution.go)
 - [230.二叉搜索树中第 K 小的元素](leetcode/medium/230.go)
 - [240.搜索二维矩阵 II](leetcode/medium/240.go)
 - [319.灯泡开关](leetcode/medium/319.go)
@@ -203,7 +205,7 @@
 
 ## 困难
 
-- [23.合并K个排序链表](leetcode/hard/t23/solution.go)
+- [23.合并 K 个排序链表](leetcode/hard/t23/solution.go)
 - [124.二叉树中的最大路径和](leetcode/hard/124.go)
 - [297.二叉树的序列化与反序列化](leetcode/hard/297.go)
 - [793.阶乘函数后 K 个零](leetcode/hard/793.go)
