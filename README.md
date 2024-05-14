@@ -149,6 +149,7 @@
 
 - [2.两数相加](leetcode/medium/2.go)
 - [3.无重复字符的最长子串](leetcode/medium/3.go)
+- [5.最长回文子串](leetcode/medium/t5/solution.go)
 - [6.Z 字形变换](leetcode/medium/6.go)
 - [7.整数反转](leetcode/medium/7.go)
 - [19.删除链表的倒数第 N 个结点](leetcode/medium/t19/solution.go)
@@ -161,7 +162,7 @@
 - [106.从中序与后序遍历序列构造二叉树](leetcode/medium/106.go)
 - [116.填充每个节点的下一个右侧节点指针](leetcode/medium/116.go)
 - [142.环形链表 II](leetcode/medium/t142/solution.go)
-- [167.两数之和 II - 输入有序数组](leetcode/medium//t167/solution.go)
+- [167.两数之和 II - 输入有序数组](leetcode/medium/t167/solution.go)
 - [215.数组中的第 K 个最大元素](leetcode/medium/t215/solution.go)
 - [230.二叉搜索树中第 K 小的元素](leetcode/medium/230.go)
 - [240.搜索二维矩阵 II](leetcode/medium/240.go)
