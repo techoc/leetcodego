@@ -133,6 +133,7 @@
 - [2578.最小和分割](leetcode/easy/t2578/solution.go))
 - [2586.统计范围内的元音字符串数](leetcode/easy/t2586/solution.go)
 - [2609.最长平衡子字符串](leetcode/easy/t2609/solution.go)
+- [2644.找出可整除性得分最大的整数](leetcode/easy/t2644/solution.go)
 - [2656.K 个元素的最大和](leetcode/easy/t2656/solution.go)
 - [2706.购买两块巧克力](leetcode/easy/t2706/solution.go)
 - [2739.总行驶距离](leetcode/easy/t2739/solution.go)
