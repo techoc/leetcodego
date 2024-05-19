@@ -23,7 +23,7 @@
 - [94.二叉树的中序遍历](leetcode/easy/94.go)
 - [100.相同的树](leetcode/easy/100.go)
 - [101.对称二叉树](leetcode/easy/101.go)
-- [104.二叉树的最大深度](leetcode/easy/104.go)
+- [104.二叉树的最大深度](leetcode/easy/t104/solution.go)
 - [108.将有序数组转换为二叉搜索树](leetcode/easy/108.go)
 - [110.平衡二叉树](leetcode/easy/110.go)
 - [111.二叉树的最小深度](leetcode/easy/111.go)
