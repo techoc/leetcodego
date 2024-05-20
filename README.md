@@ -21,7 +21,7 @@
 - [83.删除排序链表中的重复元素](leetcode/easy/t83/solution.go)
 - [88.合并两个有序数组](leetcode/easy/88.go)
 - [94.二叉树的中序遍历](leetcode/easy/94.go)
-- [100.相同的树](leetcode/easy/100.go)
+- [100.相同的树](leetcode/easy/t100/solution.go)
 - [101.对称二叉树](leetcode/easy/101.go)
 - [104.二叉树的最大深度](leetcode/easy/t104/solution.go)
 - [108.将有序数组转换为二叉搜索树](leetcode/easy/108.go)
