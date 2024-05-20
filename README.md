@@ -60,6 +60,7 @@
 - [387.字符串中的第一个唯一字符](leetcode/easy/387.go)
 - [415.字符串相加](leetcode/easy/t415/solution.go)
 - [521.最长特殊序列 Ⅰ](leetcode/easy/521.go)
+- [543.二叉树的直径](leetcode/easy/t543/solution.go)
 - [566.重塑矩阵](leetcode/easy/556.go)
 - [590.N 叉树的后序遍历](leetcode/easy/590.go)
 - [653.两数之和 IV-输入 BST](leetcode/easy/653.go)
