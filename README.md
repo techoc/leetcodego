@@ -140,6 +140,7 @@
 - [2739.总行驶距离](leetcode/easy/t2739/solution.go)
 - [2760.最长奇偶子数组](leetcode/easy/t2760/solution.go)
 - [2765.最长交替子数组](leetcode/easy/t2765/solution.go)
+- [2769.找出最大的可达成数字](leetcode/easy/t2769/solution.go)
 - [2798.满足目标工作时长的员工数目](leetcode/easy/t2798/solution.go)
 - [2894.分类求和并做差](leetcode/easy/t2894/solution.go)
 - [2908.元素和最小的山形三元组 I](leetcode/easy/t2908/solution.go)
