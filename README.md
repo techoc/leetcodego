@@ -175,6 +175,7 @@
 - [386.字典序排数](leetcode/medium/386.go)
 - [393.UTF-8 编码验证](leetcode/medium/393.go)
 - [429.N 叉树的层序遍历](leetcode/medium/429.go)
+- [494.目标和](leetcode/medium/t494/solution.go)
 - [513.找树左下角的值](leetcode/medium/513.go)
 - [535.TinyURL 的加密与解密](leetcode/medium/535.go)
 - [537.复数乘法](leetcode/medium/537.go)
